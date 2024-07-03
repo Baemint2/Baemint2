@@ -8,9 +8,7 @@
      
 
 
-[![Mozi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baemint2&layout=compact&theme=nord&hide_border=true&langs_count=10)]
-<br>
-(https://github.com/Baemint2/github-readme-stats)
+[![Mozi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baemint2&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/Baemint2/github-readme-stats)<br>
 ![Mozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baemint2&theme=nord&hide_border=true&count_private=true)
 
  
