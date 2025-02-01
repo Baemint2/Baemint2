@@ -1,14 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Mozi's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="left">
- 
- ---
+# Hi there!👋
+
      
-
-
-[![Mozi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baemint2&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/Baemint2/github-readme-stats)<br>
 ![Mozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baemint2&theme=nord&hide_border=true&count_private=true)
 
 
@@ -36,17 +29,10 @@
  ← 𝘋𝘦𝘴𝘪𝘨𝘯 𝘗𝘢𝘵𝘵𝘦𝘳𝘯𝘴 𝘚𝘵𝘶𝘥𝘺 𝘕𝘰𝘵𝘦𝘴
 </div><br>
 --> 
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
 <!--
     <a href="https://www.instagram.com/6_o777/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 -->
-    </a>
-    <a href="mailto:qofndlwl@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
